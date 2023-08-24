@@ -1,6 +1,6 @@
 # dagger-example <br> [![CI](https://github.com/gmarcha/dagger-example/actions/workflows/ci.yaml/badge.svg)](https://github.com/gmarcha/dagger-example/actions/workflows/ci.yaml)
 
-A simple example to use dagger.
+A simple example to use Dagger, a programmable CI/CD engine.
 
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/reference/builder/)
