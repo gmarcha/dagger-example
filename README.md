@@ -1,6 +1,13 @@
-# dagger-example
+# dagger-example <br> [![CI](https://github.com/gmarcha/dagger-example/actions/workflows/ci.yaml/badge.svg)](https://github.com/gmarcha/dagger-example/actions/workflows/ci.yaml)
 
 A simple example to use dagger.
+
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/reference/builder/)
+[![Dagger](https://img.shields.io/badge/dagger-%230e2b3d.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.dagger.io/)
+[![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/fr/actions)
+[![GitLab](https://img.shields.io/badge/gitlab_CI-%23fc6e26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![CircleCI](https://img.shields.io/badge/circle%20ci-%23343432.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/)
 
 ## Requirements
 
