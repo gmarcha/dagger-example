@@ -26,7 +26,7 @@ This design enables running pipelines locally for developement or testing purpos
 - Dagger [documentation](https://docs.dagger.io/).
 - Dagger [quickstart](https://docs.dagger.io/quickstart).
 - Dagger [Go SDK](https://docs.dagger.io/sdk/go/959738/get-started).
-- Dagger [multi-build](https://docs.dagger.io/sdk/go/959738/get-started#step-5-create-a-multi-build-pipeline)
+- Dagger [multi build](https://docs.dagger.io/sdk/go/959738/get-started#step-5-create-a-multi-build-pipeline) (for multiple os and architectures).
 
 ## Author
 
